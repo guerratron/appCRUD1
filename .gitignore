@@ -1,4 +1,5 @@
 .DS_Store
+_OLD
 node_modules
 dev-dist
 build
