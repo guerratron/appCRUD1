@@ -1,7 +1,5 @@
 .DS_Store
-_OLD
 node_modules
-dist
 dev-dist
 build
 types
